@@ -103,7 +103,7 @@ main {
     flex-wrap: wrap;
     height: 35rem;
     padding-top: 3rem;
-    background-image: url('img-mission-background.jpg');
+    background-image: url('images/img-mission-background.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -159,7 +159,7 @@ div {
 .location-area {
     min-height: 26rem;
     padding-top: 3rem;
-    background-image: url('img-locations-background.jpg');
+    background-image: url('images/img-locations-background.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
